@@ -5,10 +5,10 @@ Includes information about Unicode ranges, writing directions, years of origin, 
 
 ## 📂 Projects
 
-### 1. [Unicode Scripts](./unicode-scripts)
+### 1. [Unicode Scripts](./characterScript.js)
 A JavaScript dataset of world writing systems, with metadata such as Unicode ranges, script direction, and references.
 
-### 2. [Analyzer](./analyzer)
+### 2. [Analyzer](./characterCount.js)
 A tool that uses the dataset to analyze text and detect which script(s) are present.
 
 ## 🚀 Possible Use Cases
