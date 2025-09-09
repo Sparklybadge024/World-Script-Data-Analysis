@@ -16,7 +16,7 @@ A tool that uses the dataset to analyze text and detect which script(s) are pres
 - Study the distribution of living vs extinct scripts
 - Build educational or linguistic research tools
 
-# 3. [Unicode Scripts Dataset](./characterScript.js)
+# 3. [Unicode Scripts Dataset](./composability.js)
 
 This repository contains a JavaScript dataset that describes a wide variety of writing systems used throughout history and in modern times. Each script is represented as an object with metadata, including its Unicode ranges, writing direction, and historical details.
 
